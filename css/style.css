@@ -1,0 +1,26 @@
+.body {
+	background-color: blueviolet;
+}
+.admintitle {
+	background-color: red;
+	color: rgb(216, 169, 39);
+	font-size: 25px;
+	padding-left: 180px;
+}
+.dashboard {
+	background-color: turquoise;
+	height: 150px;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.but {
+	font-size: 20px;
+	margin-right: 30px;
+	background-color: tomato;
+	color: blue;
+}
+.tab {
+	text-decoration: none;
+	margin-right: 30px;
+	font-size: 30px;
+}
